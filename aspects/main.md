@@ -71,7 +71,7 @@
   * 生物学
   * 化学
   * 其他学科的基础通识知识等
-* [艺术](https://gitee.com/still-waters/growth-tree/blob/master/aspects/arts/main.md)
+* [艺术](https://github.com/anchem/GrowthTree/blob/main/aspects/arts/main.md)
   * 写一手好字
   * 具备审美能力
   * 能够欣赏音乐，了解乐器
