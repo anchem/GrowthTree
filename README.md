@@ -12,13 +12,13 @@
 
 成长时间轴以时间为角度，描述了孩子成长的每个年龄阶段所适合的养育活动。
 
-[**【开始阅读】**](https://gitee.com/still-waters/growth-tree/blob/master/growth/main.md)
+[**【开始阅读】**](https://github.com/anchem/GrowthTree/blob/main/growth/main.md)
 
 ### 成长维度
 
 成长维度从不同的方面来描述孩子成长的内容。
 
-[**【开始阅读】**](https://gitee.com/still-waters/growth-tree/blob/master/aspects/main.md)
+[**【开始阅读】**](https://github.com/anchem/GrowthTree/blob/main/aspects/main.md)
 
 ## 设计想法
 
