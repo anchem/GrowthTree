@@ -2,4 +2,4 @@
 
 ## 内容
 
-- [音乐](https://gitee.com/still-waters/growth-tree/blob/master/aspects/arts/music.md)
+- [音乐](https://github.com/anchem/GrowthTree/blob/main/aspects/arts/music.md)
